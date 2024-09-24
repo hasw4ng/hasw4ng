@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasw4ng
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently studying at Monash University
-- 💞️ I’m looking to collaborate on CTF
+- 👀 I’m interested in cybersecurity field
+- 🌱 I’m currently working for BASF - Digital Hub China
+- 💞️ I’m looking to collaborate on project development & cybersecurity consluting
 - 📫 How to reach me: hasw4ng@gmail.com
 
 <!---
